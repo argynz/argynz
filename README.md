@@ -18,5 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=argynz&show_icons=true&locale=en" alt="argynz" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/z_argyn?theme=light#gh-light-mode-only)
-![Leetcode Stats](https://leetcard.jacoblin.cool/z_argyn?theme=dark#gh-dark-mode-only)
+![Leetcode Stats](https://leetcard.jacoblin.cool/z_argyn?theme=light)
