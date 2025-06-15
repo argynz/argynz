@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Argyn Zhienbay</h1>
-<h3 align="center">Mobile IOS developer from Kazakhstan</h3>
+<h3 align="center">Mobile Software Developer from Kazakhstan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=argynz&label=Profile%20views&color=0e75b6&style=flat" alt="argynz" /> </p>
 
